@@ -1,0 +1,60 @@
+N:\CPSCSS\CPSCSS-Minu-Aug2020 
+binthas5002
+majha cwid password dere
+dete*
+ETTHL - Welcome$54321Mar2021
+
+http://bas.bayer.cnb/Forms/Login.php 
+
+
+Please provide me admin userid password for hostname:WINC001256
+username - Administrator
+password - P2dmJYxHcRML
+
+./Administrator-yDntgWZj6sGY
+
+
+
+Please get this resolve ASAP.
+
+
+
+---------------------------
+Microsoft Visual Studio
+---------------------------
+Configuring IIS Express failed with the following error:
+
+Filename: \\?\C:\Users\ETOXQ\OneDrive - Bayer\Personal Data\IISExpress\config\applicationHost.config
+
+Error: Cannot write configuration file
+
+---------------------------
+Microsoft Visual Studio
+---------------------------
+Creation of the virtual directory http://localhost:60537/ failed with the error: Filename: \\?\C:\Users\ETOXQ\OneDrive - Bayer\Personal Data\IISExpress\config\applicationHost.config
+
+Error: Cannot write configuration file
+
+
+
+---------------------------
+Microsoft Visual Studio
+---------------------------
+An error occurred when applying the IIS Express settings to server URL 'http://localhost:49914/' for project 'Bayer.WKiosk.UI'. You may have to manually edit the applicationHost.config file and make the changes for your site to run correctly.
+---------------------------
+OK   
+---------------------------
+
+
+
+---------------------------
+OK   
+---------------------------
+
+
+
+
+
+---------------------------
+OK   
+---------------------------
